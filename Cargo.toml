@@ -1,0 +1,8 @@
+[package]
+name = "rusty_app"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+names = "0.14.0"
+owo-colors = "4.2.3"
